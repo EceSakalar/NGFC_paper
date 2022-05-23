@@ -2,6 +2,7 @@
 Code for reproducibility of our paper Sakalar et al., 2022
 
 The scripts in this project includes:
+
  -Current source density (CSD) analysis calculation from local field potentials (LFP)
  -Sharp wave-associated ripple detection in CSD and LFP
  -Cell firing versus sharp wave-associated ripples
