@@ -1,4 +1,5 @@
 # NGFC_paper
+
 Code for reproducibility of our paper Sakalar et al., 2022
 
 The scripts in this project include:
@@ -32,11 +33,11 @@ SilPSuite_PositionHandling:
 
 - Analysis of position of the animals in the virtual environment
 
-Required input:
-.mat file with LFP and spike times
-.txt files for manually detected theta oscillation and sharp wave-associated ripple times for the LFP in the .mat file
+## Required input:
+- .mat file with LFP and spike times
+- .txt files for manually detected theta oscillation and sharp wave-associated ripple times for the LFP in the .mat file
 
-Required system:
+## Required system:
 MATLAB R2017a
 - Statistics toolbox
 - CircStat toolbox
