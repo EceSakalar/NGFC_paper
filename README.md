@@ -43,7 +43,6 @@ MATLAB R2017a
 - CircStat toolbox
 
 ### References:
-===============
 For the circular statistics, the functions from CircStat Toolbox was used:
 P. Berens, CircStat: A Matlab Toolbox for Circular Statistics, Journal of Statistical Software, Volume 31, Issue 10, 2009
 http://www.jstatsoft.org/v31/i10
