@@ -5,7 +5,7 @@ The scripts in this project include:
 
   SilPSuite:
 
- \n-Current source density (CSD) analysis calculation from local field potentials (LFP)
+ -Current source density (CSD) analysis calculation from local field potentials (LFP)
  -Spike waveform characteristics of cells
  -Inter-cell interactions (analysis of inhibition, excitation and co-firing)
  -Sharp wave-associated ripple detection in CSD and LFP
