@@ -4,7 +4,7 @@ Code for reproducibility of our paper Sakalar et al., 2022
 
 The scripts in this project include:
 
-SilPSuite:
+#### SilPSuite:
 
 - Current source density (CSD) analysis calculation from local field potentials (LFP)
 - Spike waveform characteristics of cells
@@ -21,15 +21,15 @@ SilPSuite:
 
 (SilPSuite_MuShank includes the same scripts as in SilPSuite adjusted for multi-shank silicon probe recordings)
 
-SilPSuite_CoupEffect:
+#### SilPSuite_CoupEffect:
 
 - Gamma oscillation coupling of cells depending on timing of neurogliaform cell firing or gamma amplitude
   
-Modelling_singlePSPconductance:
+#### Modelling_singlePSPconductance:
 
 - Synaptic conductance modelling of cell firing (specified on neurogliaform cells)
 
-SilPSuite_PositionHandling:
+#### SilPSuite_PositionHandling:
 
 - Analysis of position of the animals in the virtual environment
 
@@ -42,7 +42,7 @@ MATLAB R2017a
 - Statistics toolbox
 - CircStat toolbox
 
-References:
+### References:
 For the circular statistics, the functions from CircStat Toolbox was used:
 P. Berens, CircStat: A Matlab Toolbox for Circular Statistics, Journal of Statistical Software, Volume 31, Issue 10, 2009
 http://www.jstatsoft.org/v31/i10
