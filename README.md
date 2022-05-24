@@ -5,7 +5,7 @@ The scripts in this project include:
 
   SilPSuite:
 
- -Current source density (CSD) analysis calculation from local field potentials (LFP)
+ \n-Current source density (CSD) analysis calculation from local field potentials (LFP)
  -Spike waveform characteristics of cells
  -Inter-cell interactions (analysis of inhibition, excitation and co-firing)
  -Sharp wave-associated ripple detection in CSD and LFP
@@ -16,13 +16,13 @@ The scripts in this project include:
  -Cell firing versus gamma oscillation
  -Gamma oscillation detection through band-pass filtering (for the gamma frequency range detected manually)
  -Cell firing versus gamma oscillation
+ -Cell firing versus brain states
 
  (SilPSuite_MuShank includes the same scripts as in SilPSuite adjusted for multi-shank silicon probe recordings)
 
   SilPSuite_CoupEffect:
 
  -Gamma oscillation coupling of cells depending on timing of neurogliaform cell firing or gamma amplitude
- -Cell firing versus brain states
   
   Modelling_singlePSPconductance:
 
